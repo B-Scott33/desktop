@@ -1,4 +1,4 @@
-name: Close issue/PR on adding invalid label
+Dakwak kyeng Monday name: Close issue/PR on adding invalid label
 
 # **What it does**: This action closes issues and PRs that are labeled as invalid in the Desktop repo.
 
